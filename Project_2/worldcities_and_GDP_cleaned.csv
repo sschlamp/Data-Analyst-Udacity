@@ -1,0 +1,906 @@
+city,lat,lng,country,gdp_total,population
+A Coruña metropolitan area,,,Spain,28.819,1121815
+Aachen,50.7756,6.0836,Germany,24.296,249070
+Aalborg,57.05,9.9167,Denmark,31.855,219487
+Aarhus,56.1572,10.2107,Denmark,54.927,352751
+"Abbotsford, British Columbia",,,Canada,6.239,203907
+Aberdeen,,,United Kingdom,23.0,489840
+Abidjan,5.3167,-4.0333,Ivory Coast,27.0,5600000
+"Abilene, TX MSA",,,United States,9.469,179308
+Abu Dhabi metropolitan area,,,United Arab Emirates,151.073,1660000
+Adelaide,34.9275,138.6,Australia,64.461,1344368
+Ahmedabad,23.0225,72.5714,India,80.0,9300000
+Aix-Marseille-Provence Metropolis,,,France,135.038,1911657
+"Akron, OH MSA",,,United States,44.562,697627
+"Albany-Lebanon, OR MSA",,,United States,6.108,130467
+"Albany-Schenectady-Troy, NY MSA",,,United States,80.303,904617
+"Albany, GA MSA",,,United States,7.312,145786
+"Albuquerque, NM MSA",,,United States,53.862,919543
+Alexandria,31.1975,29.8925,Egypt,36.0,5950000
+Alexandria,43.9686,25.3333,Egypt,36.0,5950000
+Alexandria,6.4128,-38.0158,Egypt,36.0,5950000
+"Alexandria, LA MSA",,,United States,7.46,149189
+Alicante metropolitan area,,,Spain,38.851,1915282
+"Allentown-Bethlehem-Easton, PA-NJ MSA",,,United States,54.323,871229
+Almaty,43.24,76.915,Kazakhstan,41.485,2250000
+"Altoona, PA MSA",,,United States,7.238,121032
+Alxa League,,,China,4.419,262361
+"Amarillo, TX MSA",,,United States,17.376,271171
+"Ames, IA MSA",,,United States,8.104,125767
+Amiens,49.892,2.299,France,19.418,304331
+Amsterdam metropolitan area,,,Netherlands,237.841,2890428
+Anápolis,,,Brazil,6.74,334623
+"Anchorage, AK MSA",,,United States,31.57,400470
+Angers Loire Métropole,,,France,29.379,394256
+Ankara,39.93,32.85,Turkey,74.83,5150000
+"Ann Arbor, MI MSA",,,United States,30.556,366376
+Annecy,45.916,6.133,France,29.98,183697
+"Anniston-Oxford, AL MSA",,,United States,5.466,115788
+Anshan,,,China,80.968,3325372
+Antwerp metropolitan area,,,Belgium,66.063,1230000
+"Appleton, Wisconsin metropolitan area",,,United States,16.977,244845
+Arnhem–Nijmegen metropolitan area,,,Netherlands,34.621,774506
+"Asheville, NC MSA",,,United States,26.228,476072
+Astana,51.1472,71.4222,Kazakhstan,23.115,1350228
+Asturias metropolitan area,,,Spain,27.152,1009088
+Athens Metropolitan Area,,,Greece,85.809,3526887
+"Athens-Clarke County, GA MSA",,,United States,12.628,220405
+"Atlanta-Sandy Springs-Alpharetta, GA MSA",,,United States,525.888,6222106
+"Atlantic City-Hammonton, NJ MSA",,,United States,16.851,275638
+"Auburn-Opelika, AL MSA",,,United States,8.256,180773
+Auckland,36.8406,174.74,New Zealand,81.227,1470000
+"Augusta-Richmond County, GA-SC MSA",,,United States,34.185,624083
+"Austin-Round Rock-Georgetown, TX MSA",,,United States,222.054,2421115
+"Bakersfield, CA MSA",,,United States,57.541,916108
+Balikpapan-Samarinda Metropolitan,,,Indonesia,29.901,2621877
+Ballarat,,,Australia,4.46,108491
+"Baltimore-Columbia-Towson, MD MSA",,,United States,241.399,2835672
+Bandung Metropolitan,,,Indonesia,38.29,8790308
+Bangkok Metropolitan Region,,,Thailand,252.128,19900000
+"Bangor, ME MSA",,,United States,8.551,153704
+Banjarmasin Metropolitan,,,Indonesia,6.017,2164485
+Baotou,,,China,40.412,2709378
+Barcelona metropolitan area,,,Spain,182.524,5105991
+"Barnstable Town, MA MSA",,,United States,16.351,232457
+Barrie,,,Canada,6.453,218377
+Batam Metropolitan,,,Indonesia,16.006,1885481
+"Baton Rouge, LA MSA",,,United States,62.951,873060
+"Battle Creek, MI MSA",,,United States,7.728,133289
+"Bay City, MI MSA",,,United States,4.592,102821
+"Beaumont-Port Arthur, TX MSA",,,United States,29.007,393575
+"Beckley, WV MSA",,,United States,5.187,113724
+Belfast,,,United Kingdom,25.5,671559
+Belgrade,44.82,20.46,Serbia,25.31,1430000
+"Belleville, Ontario",,,Canada,3.814,113045
+"Bellingham, WA MSA",,,United States,19.595,230677
+Belo Horizonte,19.9167,-43.9333,Brazil,54.996,4744599
+"Bend, OR MSA",,,United States,13.878,206549
+Bendigo,,,Australia,3.961,99416
+Bengaluru,,,India,110.0,13200000
+Bergamo metropolitan area,,,Italy,40.539,1102286
+Berlin/Brandenburg Metropolitan Region,,,Germany,271.818,4679500
+Bhopal,,,India,5.35,2600000
+Bielefeld,52.0211,8.5347,Germany,16.19,591862
+Bielsko-Biała,49.8225,19.0444,Poland,10.147,169756
+Bilbao metropolitan area,,,Spain,37.568,1014366
+"Billings, MT MSA",,,United States,13.208,190208
+"Binghamton, NY MSA",,,United States,12.659,244889
+Birmingham,,,United Kingdom,39.1,3150000
+"Birmingham-Hoover, AL MSA",,,United States,79.098,1116857
+"Bismarck, ND MSA",,,United States,8.881,134846
+"Blacksburg-Christiansburg, VA MSA",,,United States,9.06,165812
+"Bloomington, IL MSA",,,United States,14.431,171141
+"Bloomington, IN MSA",,,United States,9.085,161227
+"Bloomsburg-Berwick, PA MSA",,,United States,5.205,83017
+Bocholt metropolitan area,,,Germany,16.488,71074
+"Boise, ID MSA",,,United States,49.947,811336
+Bologna metropolitan area,,,Italy,45.648,1017225
+Bordeaux,44.84,-0.58,France,73.813,1100000
+"Boston-Cambridge-Newton, MA-NH MSA",,,United States,571.667,4900550
+"Boulder, CO MSA",,,United States,35.608,327468
+"Bowling Green, KY MSA",,,United States,9.794,185682
+Brantford,,,Canada,4.58,151620
+Brasília,15.7939,-47.8828,Brazil,65.338,3548438
+Brașov,,,Romania,8.472,371802
+Bratislava metropolitan area,,,Slovakia,33.072,719537
+Breda,51.5889,4.7758,Netherlands,33.23,324812
+Bremen,53.0758,8.8072,Germany,56.517,1274429
+"Bremerton-Silverdale-Port Orchard, WA MSA",,,United States,15.477,277673
+Brescia metropolitan area,,,Italy,46.603,1250527
+Brest Métropole,,,France,32.956,381226
+"Bridgeport-Stamford-Norwalk, CT MSA",,,United States,104.368,962946
+Brisbane,27.4678,153.0281,Australia,177.0,2388038
+Bristol,,,United Kingdom,22.3,465866
+Brno,49.1925,16.6083,Czech Republic,30.963,398510
+"Brownsville-Harlingen, TX MSA",,,United States,14.259,425208
+"Brunswick, GA MSA",,,United States,5.933,114442
+Brussels metropolitan area,,,Belgium,237.08,2784967
+Bucharest Metropolitan Area,,,Romania,78.052,2200000
+Budapest metropolitan area,,,Hungary,86.93,2625000
+"Buffalo-Niagara Falls, NY MSA",,,United States,84.673,1161192
+"Burlington-South Burlington, VT MSA",,,United States,17.478,227521
+"Burlington, NC MSA",,,United States,7.889,176353
+Bursa,40.1833,29.05,Turkey,33.641,3101833
+Busan-Gyeongnam Area,,,South Korea,252.145,7038129
+Bydgoszcz–Toruń metropolitan area,,,Poland,12.417,752655
+Cádiz-Jerez metropolitan area,,,Spain,22.971,639560
+Caen,49.1814,-0.3636,France,25.054,395885
+Cairns,,,Australia,10.709,153951
+Calgary Metropolitan Region,,,Canada,76.548,1542956
+"California-Lexington Park, MD MSA",,,United States,8.849,114877
+Campinas,,,Brazil,40.525,1874487
+Campo Grande,20.4839,-54.615,Brazil,9.59,786797
+Campos dos Goytacazes,,,Brazil,5.358,511168
+Canberra,35.2931,149.1269,Australia,30.909,465118
+"Canton-Massillon, OH MSA",,,United States,22.88,399316
+"Cape Coral-Fort Myers, FL MSA",,,United States,44.629,822453
+"Cape Girardeau, MO-IL MSA",,,United States,5.282,98275
+Cape Town,33.9253,18.4239,South Africa,56.3,4375000
+Caracas,10.4806,-66.9036,Venezuela,70.0,1942652
+"Carbondale-Marion, IL MSA",,,United States,6.801,132693
+Cardiff-Newport,,,United Kingdom,49.5,1552527
+"Carson City, NV MSA",,,United States,4.285,58130
+Casablanca,33.5333,-7.5833,Morocco,47.0,4625000
+"Casper, WY MSA",,,United States,6.273,79601
+"Cedar Rapids, IA MSA",,,United States,22.009,275592
+Central German Metropolitan Region,,,Germany,109.582,2411051
+"Chambersburg-Waynesboro, PA MSA",,,United States,7.457,156902
+"Champaign-Urbana, IL MSA",,,United States,14.328,223265
+Chandigarh,,,India,6.0,2575000
+Changchun,43.897,125.326,China,96.24,9066906
+Changde,29.031,111.699,China,54.355,5279102
+Changji Prefecture,,,China,20.113,1613585
+Changsha,28.228,112.939,China,208.0,10420600
+Changsha,22.3773,112.6982,China,208.0,10420600
+Charleroi,50.4,4.4333,Belgium,16.93,396820
+"Charleston-North Charleston, SC MSA",,,United States,56.933,830529
+"Charleston, WV MSA",,,United States,14.891,251914
+"Charlotte-Concord-Gastonia, NC-SC MSA",,,United States,228.913,2756069
+"Charlottesville, VA MSA",,,United States,17.19,223825
+"Chattanooga, TN-GA MSA",,,United States,40.042,574507
+Chengdu,30.66,104.0633,China,260.409,16600000
+Chennai,13.0825,80.275,India,128.3,12200000
+"Cheyenne, WY MSA",,,United States,7.545,100723
+"Chicago–Naperville, IL–IN–WI CSA",,,United States,992.478,9806184
+"Chico, CA MSA",,,United States,11.077,207303
+Chittagong,,,Bangladesh,25.5,4925000
+Chongqing,29.5637,106.5504,China,407.562,10100000
+Chuzhou,,,China,43.96,3937868
+"Cincinnati, OH-KY-IN MSA",,,United States,186.141,2265051
+"Clarksville, TN-KY MSA",,,United States,16.209,336605
+Clermont-Ferrand,45.7831,3.0824,France,26.492,362578
+"Cleveland-Elyria, OH MSA",,,United States,162.788,2063132
+"Cleveland, TN MSA",,,United States,6.296,128479
+Cluj-Napoca,46.7667,23.5833,Romania,13.155,286598
+Cocos (Keeling) Islands,,,Cocos (Keeling) Islands,0.011,561
+"Coeur d'Alene, ID MSA",,,United States,9.609,183578
+Coimbatore,,,India,42.0,2775000
+Coimbra,40.2028,-8.4139,Portugal,9.837,140796
+"College Station-Bryan, TX MSA",,,United States,18.181,277824
+"Colorado Springs, CO MSA",,,United States,47.905,765424
+"Columbia, MO MSA",,,United States,12.514,214630
+"Columbia, SC MSA",,,United States,54.072,847686
+"Columbus, GA-AL MSA",,,United States,17.038,324110
+"Columbus, IN MSA",,,United States,7.979,83540
+"Columbus, OH MSA",,,United States,169.123,2161511
+Communauté d'agglomération Nîmes Métropole,,,France,23.471,564024
+Communauté d'agglomération Pau Béarn Pyrénées,,,France,26.427,311949
+Constanța,,,Romania,9.159,263688
+Copenhagen metropolitan area,,,Denmark,179.846,1857783
+Córdoba metropolitan area,,,Spain,14.929,326039
+"Corpus Christi, TX MSA",,,United States,28.228,421628
+"Corvallis, OR MSA",,,United States,5.443,97630
+Coventry,,,United Kingdom,13.9,379387
+"Crestview-Fort Walton Beach-Destin, FL MSA",,,United States,21.491,299786
+"Cumberland, MD-WV MSA",,,United States,4.342,94122
+Curitiba,25.4297,-49.2711,Brazil,58.082,3054076
+Daegu,35.8717,128.6017,South Korea,50.4,2750000
+Daejeon,36.35,127.385,South Korea,40.0,1540000
+Dalian,,,China,125.0,5050000
+"Dallas-Fort Worth-Arlington, TX MSA",,,United States,826.713,7943685
+"Dalton, GA MSA",,,United States,8.726,143604
+"Danville, IL MSA",,,United States,3.946,72337
+"Daphne-Fairhope-Foley, AL MSA",,,United States,10.811,246435
+Daqing,46.589,125.104,China,33.362,2781562
+Dar es Salaam,6.8161,39.2803,Tanzania,10.4,6450000
+"Davenport-Moline-Rock Island, IA-IL MSA",,,United States,25.774,379374
+"Dayton, OH MSA",,,United States,41.111,812595
+"Decatur, AL MSA",,,United States,8.038,157425
+"Decatur, IL MSA",,,United States,8.181,101483
+"Deltona-Daytona Beach-Ormond Beach, FL MSA",,,United States,28.134,705897
+Denpasar Metropolitan,,,Indonesia,9.941,2260667
+"Denver-Aurora-Lakewood, CO MSA",,,United States,288.8,2985871
+"Des Moines-West Des Moines, IA MSA",,,United States,67.334,729053
+"Detroit-Warren-Dearborn, MI Metropolitan Statistical Area",,,United States,305.412,4345761
+Deyang,31.127,104.398,China,34.855,3456161
+Dijon Métropole,,,France,23.472,368440
+Dongying,,,China,43.222,2193518
+"Dothan, AL MSA",,,United States,8.41,152517
+"Dover, DE MSA",,,United States,9.92,186946
+Dresden,51.05,13.74,Germany,50.788,1343747
+Dubai-Sharjah-Ajman metropolitan area,,,United Arab Emirates,202.8,4264316
+"Dubuque, IA MSA",,,United States,8.184,98677
+"Duluth, MN-WI MSA",,,United States,16.822,291323
+Durban,,,South Africa,64.7,3525000
+"Durham-Chapel Hill, NC MSA",,,United States,63.95,664310
+"East Stroudsburg, PA MSA",,,United States,10.009,167198
+"Eau Claire, WI MSA",,,United States,10.839,173644
+Edinburgh,,,United Kingdom,32.9,527620
+Edmonton Metropolitan Region,,,Canada,65.23,1467219
+Eindhoven,51.4333,5.4833,Netherlands,48.257,300751
+"El Centro, CA MSA",,,United States,11.064,178713
+"El Paso, TX MSA",,,United States,43.283,872195
+"Elizabethtown-Fort Knox, KY MSA",,,United States,7.5,157026
+"Elkhart-Goshen, IN MSA",,,United States,21.094,206890
+"Elmira, NY MSA",,,United States,4.337,81426
+"Enid, OK MSA",,,United States,3.319,61920
+Enschede,52.2225,6.8925,Netherlands,27.337,315807
+Erfurt,,,Germany,20.347,213227
+"Erie, PA MSA",,,United States,13.171,267689
+"Eugene-Springfield, OR MSA",,,United States,20.913,382353
+European Metropolis of Lille,,,France,101.806,1300000
+"Evansville, IN-KY MSA",,,United States,25.278,314038
+Ezhou,30.3914,114.8949,China,14.574,1079353
+"Fairbanks, AK MSA",,,United States,6.804,95356
+Faisalabad,31.4167,73.0911,Pakistan,43.0,3204704
+Fangchenggang,21.6867,108.3547,China,10.624,1046068
+"Fargo, ND-MN MSA",,,United States,18.792,258663
+"Farmington, NM MSA",,,United States,6.594,120418
+"Fayetteville-Springdale-Rogers, AR MSA",,,United States,37.749,576403
+"Fayetteville, NC MSA",,,United States,25.96,529318
+"Flagstaff, AZ MSA",,,United States,9.08,144060
+Flensburg,54.7819,9.4367,Germany,10.839,113800
+"Flint, MI MSA",,,United States,17.635,401983
+"Florence-Muscle Shoals, AL MSA",,,United States,6.54,153911
+"Florence, SC MSA",,,United States,11.807,199119
+"Fond du Lac, WI MSA",,,United States,6.203,103836
+"Fort Collins, CO MSA",,,United States,25.923,366778
+"Fort Smith, AR-OK MSA",,,United States,12.024,247072
+"Fort Wayne, IN MSA",,,United States,28.565,426076
+Fort-de-France,,,France,10.741,74921
+Fortaleza,3.7275,-38.5275,Brazil,21.7,3326820
+Freiburg im Breisgau,47.995,7.85,Germany,30.404,656753
+"Fresno, CA MSA",,,United States,55.427,1015190
+Fukuoka–Kitakyushu,,,Japan,182.952,4750000
+Fuzhou,26.0743,119.2964,China,183.0,4450000
+"Gadsden, AL MSA",,,United States,3.489,103088
+"Gainesville, FL MSA",,,United States,19.655,348282
+"Gainesville, GA MSA",,,United States,15.264,212692
+Gdansk metropolitan area,,,Poland,23.448,1098379
+Geelong,,,Australia,8.725,271848
+Geneva,46.2017,6.1469,Switzerland,55.423,506343
+George Town,5.4144,100.3292,Malaysia,27.535,2050000
+"Gettysburg, PA MSA",,,United States,4.429,106027
+Ghent metropolitan area,,,Belgium,39.015,561524
+Gibraltar,,,Gibraltar,3.265,32688
+Gladstone,,,Australia,4.464,45130
+Glasgow,,,United Kingdom,67.7,1861315
+"Glens Falls, NY MSA",,,United States,8.034,126440
+Goiânia,16.6667,-49.25,Brazil,22.763,2078438
+Gold Coast,,,Australia,26.669,679127
+"Goldsboro, NC MSA",,,United States,6.049,117286
+Gothenburg,57.7075,11.9675,Sweden,104.766,1051345
+Granada metropolitan area,,,Spain,18.091,495900
+Grand Besançon Métropole,,,France,19.018,197494
+"Grand Forks, ND-MN MSA",,,United States,6.58,103144
+"Grand Island, NE MSA",,,United States,5.387,76333
+"Grand Junction, CO MSA",,,United States,8.218,158636
+Grand Poitiers communauté urbaine,,,France,15.217,266160
+"Grand Rapids-Kentwood, MI MSA",,,United States,77.296,1094198
+Grand Reims,,,France,23.619,297068
+"Grants Pass, OR MSA",,,United States,3.658,87730
+Graz,47.0708,15.4386,Austria,32.416,351369
+"Great Falls, MT MSA",,,United States,4.781,84864
+Greater Buenos Aires,,,Argentina,235.6,16700000
+Greater Cairo,,,Egypt,190.2,21500000
+Greater Dhaka,,,Bangladesh,85.5,21300000
+Greater Dublin Area,,,Ireland,272.454,1400000
+Greater Helsinki,,,Finland,125.166,1320000
+Greater Manchester,,,United Kingdom,108.0,2812569
+Greater Manila Area,,,Philippines,162.3,26400000
+Greater Mexico City,,,Mexico,340.8,24700000
+Greater Montreal,,,Canada,170.53,4336487
+Greater São Paulo,,,Brazil,261.642,22600000
+Greater Sudbury,,,Canada,7.242,172476
+Greater Tokyo Area,,,Japan,2080.758,40700000
+Greater Toronto and Hamilton Area,,,Canada,349.201,7281694
+Greater Vancouver,,,Canada,122.113,2743765
+"Greeley, CO MSA",,,United States,27.344,350176
+"Green Bay, WI MSA",,,United States,24.565,330292
+"Greensboro-High Point, NC MSA",,,United States,49.029,784101
+"Greenville-Anderson, SC MSA",,,United States,57.403,958958
+"Greenville, NC MSA",,,United States,10.921,173542
+Grenoble metropolitan area,,,France,53.606,760823
+Groningen,53.2189,6.5675,Netherlands,22.301,232874
+Groningen,5.8,-55.4667,Netherlands,22.301,232874
+Guadalajara,20.6767,-103.3475,Mexico,65.8,5750000
+Guadalajara,40.6337,-3.1674,Mexico,65.8,5750000
+Shenzhen,22.5415,114.0596,China,455.694,14678000
+Guelph,,,Canada,7.891,167658
+Guiyang,26.647,106.63,China,62.511,5987018
+Gujranwala,32.1567,74.19,Pakistan,15.681,5011066
+"Gulfport-Biloxi, MS MSA",,,United States,23.511,420782
+Gwangju,35.1653,126.8486,South Korea,36.0,1630000
+"Hagerstown-Martinsburg, MD-WV MSA",,,United States,13.99,302510
+Haifa,32.8192,34.9992,Israel,25.082,1050000
+Haixi Prefecture,,,China,8.986,468216
+"Halifax, Nova Scotia",,,Canada,18.228,450910
+Hamamatsu,,,Japan,54.3,800866
+Hamburg Metropolitan Region,,,Germany,261.306,5100000
+Hami,,,China,8.814,673383
+"Hammond, LA MSA",,,United States,5.447,137048
+"Hanford-Corcoran, CA MSA",,,United States,8.146,152981
+Hangzhou,30.267,120.153,China,279.0,12500000
+Hannover–Braunschweig–Göttingen–Wolfsburg Metropolitan Region,,,Germany,186.167,3845271
+Hanoi,21.0,105.85,Vietnam,42.04,8053663
+Harbin,45.7576,126.6409,China,94.1,10009854
+"Harrisburg-Carlisle, PA MSA",,,United States,47.815,603493
+"Harrisonburg, VA MSA",,,United States,10.226,136555
+"Hartford-East Hartford-Middletown, CT MSA",,,United States,114.887,1221725
+"Hattiesburg, MS MSA",,,United States,7.901,173359
+Hefei,31.8206,117.2273,China,179.0,7150000
+Heidelberg,49.4167,8.7167,Germany,34.067,1544830
+"Hickory-Lenoir-Morganton, NC MSA",,,United States,18.281,368347
+"Hilton Head Island-Bluffton, SC MSA",,,United States,12.497,228410
+"Hinesville, GA MSA",,,United States,4.768,86378
+Hiroshima,34.3914,132.4519,Japan,61.3,2860750
+Ho Chi Minh City metropolitan area,,,Vietnam,96.399,10900000
+Hobart,42.8806,147.325,Australia,11.388,218874
+Hohhot,40.842,111.749,China,40.605,3446100
+"Homosassa Springs, FL MSA",,,United States,5.664,162529
+"Hot Springs, AR MSA",,,United States,4.2,100089
+"Houma-Thibodaux, LA MSA",,,United States,10.812,200656
+"Houston-The Woodlands-Sugar Land, TX MSA",,,United States,759.82,7340118
+Hsinchu,24.8167,120.9833,Taiwan,11.98,448207
+Huai'an,,,China,58.361,4556230
+"Huntington-Ashland, WV-KY-OH MSA",,,United States,18.046,354304
+"Huntsville, AL MSA",,,United States,38.101,514465
+Hyderabad,,,India,74.0,9482000
+Iași,,,Romania,8.682,423154
+"Idaho Falls, ID MSA",,,United States,11.248,165608
+"Indianapolis-Carmel-Anderson, IN MSA",,,United States,184.394,2141779
+Indore,,,India,8.1,3175000
+Innsbruck,47.2683,11.3933,Austria,15.921,228866
+"Iowa City, IA MSA",,,United States,12.9,178991
+Iserlohn,,,Germany,16.739,91873
+Istanbul metropolitan area,,,Turkey,275.365,16500000
+"Ithaca, NY MSA",,,United States,7.274,104777
+İzmir,38.42,27.14,Turkey,51.46,3050000
+"Jackson, MI MSA",,,United States,7.99,160066
+"Jackson, MS MSA",,,United States,34.043,583197
+"Jackson, TN MSA",,,United States,10.814,181579
+"Jacksonville, FL MSA",,,United States,117.162,1675668
+"Jacksonville, NC MSA",,,United States,10.737,207298
+Jaipur,26.9,75.8,India,15.0,4050000
+Jakarta metropolitan area,,,Indonesia,323.03,34307088
+"Janesville-Beloit, WI MSA",,,United States,9.277,164060
+Jeddah,,,Saudi Arabia,138.97,5500000
+"Jefferson City, MO MSA",,,United States,9.698,150350
+Jerusalem,31.7789,35.2256,Israel,48.0,1008400
+Jiayuguan,39.7732,98.2882,China,4.083,312663
+Jinan,36.6702,117.0207,China,179.0,6200000
+Jinchang,38.5214,102.188,China,5.199,438026
+Jinchang,38.4858,112.9643,China,5.199,438026
+Beijing,39.9067,116.3975,China,618.648,20500000
+Jingmen,,,China,27.64,2596927
+Jiujiang,29.661,115.954,China,46.981,4600276
+Johannesburg,26.2044,28.0456,South Africa,134.682,8400042
+"Johnson City, TN MSA",,,United States,9.943,210256
+"Johnstown, PA MSA",,,United States,5.499,131441
+"Jonesboro, AR MSA",,,United States,7.016,135512
+"Joplin, MO MSA",,,United States,9.407,184086
+Jundiaí,,,Brazil,20.081,698679
+Kabul,34.5253,69.1783,Afghanistan,6.0,4800000
+Kagoshima,31.6,130.55,Japan,53.0,1588256
+"Kahului-Wailuku-Lahaina, HI MSA",,,United States,11.649,164351
+Kaiserslautern,49.4447,7.7689,Germany,9.577,124300
+"Kalamazoo-Portage, MI MSA",,,United States,18.786,261173
+"Kankakee, IL MSA",,,United States,8.32,106074
+"Kansas City, MO-KS MSA",,,United States,169.501,2209494
+Kaohsiung,22.615,120.2975,Taiwan,58.071,2775000
+Karachi,24.86,67.01,Pakistan,75.0,14910352
+Karamay,45.5799,84.8892,China,12.858,490348
+Karlsruhe,49.0092,8.404,Germany,43.054,504030
+Kassel,51.3158,9.4979,Germany,19.433,340200
+Katowice metropolitan area,,,Poland,52.713,2486510
+Kaunas urban area,,,Lithuania,14.406,298753
+Kelowna,,,Canada,8.401,223529
+"Kennewick-Richland, WA MSA",,,United States,19.553,311469
+Kiel,54.3233,10.1394,Germany,26.831,325300
+Kielce,50.8742,20.6333,Poland,9.144,192468
+"Killeen-Temple, TX MSA",,,United States,24.105,496228
+"Kingsport-Bristol, TN-VA MSA",,,United States,17.596,311272
+"Kingston, NY MSA",,,United States,9.053,182319
+"Kingston, Ontario",,,Canada,6.873,176176
+"Kitchener, Ontario",,,Canada,24.529,593397
+"Knoxville, TN MSA",,,United States,58.893,907968
+Koblenz,50.3597,7.5978,Germany,17.01,113638
+"Kokomo, IN MSA",,,United States,5.079,83574
+Kolkata,,,India,160.2,17200000
+"Konstanz, metropolitan area",,,Germany,12.212,288097
+Košice,48.7167,21.25,Slovakia,14.243,228249
+Kraków metropolitan area,,,Poland,29.165,1498499
+Kuala Lumpur,3.1478,101.6953,Malaysia,59.831,8900000
+Kumamoto,32.8031,130.7078,Japan,39.8,1817426
+Kunming,25.0464,102.7094,China,97.628,8460088
+Kuwait City,29.3697,47.9783,Kuwait,118.0,4750000
+Kyiv,50.45,30.5233,Ukraine,27.5,3475000
+Kyoto–Osaka–Kobe,,,Japan,699.474,17700000
+"La Crosse-Onalaska, WI-MN MSA",,,United States,9.693,139094
+"Lafayette-West Lafayette, IN MSA",,,United States,14.002,226452
+"Lafayette, LA MSA",,,United States,24.996,481125
+Lagos metropolitan area,,,Nigeria,102.01,20100000
+Lahore,31.5497,74.3436,Pakistan,40.0,13900000
+"Lake Charles, LA MSA",,,United States,18.574,207320
+"Lake Havasu City-Kingman, AZ MSA",,,United States,7.715,220816
+"Lakeland-Winter Haven, FL MSA",,,United States,37.305,787404
+"Lancaster, PA MSA",,,United States,36.312,556629
+"Lansing-East Lansing, MI MSA",,,United States,32.633,540870
+"Laredo, TX MSA",,,United States,17.01,267780
+"Las Cruces, NM MSA",,,United States,9.336,223337
+Las Palmas metropolitan area,,,Spain,16.93,556159
+"Las Vegas-Henderson-Paradise, NV MSA",,,United States,160.728,2322985
+Launceston,,,Australia,3.961,89532
+"Lawrence, KS MSA",,,United States,6.176,119964
+"Lawton, OK MSA",,,United States,6.198,128523
+Le Mans Métropole,,,France,18.533,267560
+"Lebanon, PA MSA",,,United States,7.51,144011
+Leeds,,,United Kingdom,37.1,2175000
+Leeuwarden metropolitan area,,,Netherlands,11.749,124084
+Leiden,52.16,4.49,Netherlands,18.472,270225
+Les Abymes,,,France,10.807,52118
+Lethbridge,,,Canada,5.059,128795
+"Lewiston-Auburn, ME MSA",,,United States,6.001,113023
+"Lewiston, ID-WA MSA",,,United States,3.641,65512
+"Lexington-Fayette, KY MSA",,,United States,35.67,517916
+Lhasa,29.6534,91.1719,China,9.832,867891
+Lianyungang,,,China,47.512,4599360
+Liège,50.6397,5.5706,Belgium,31.085,500903
+Lima,12.06,-77.0375,Peru,114.4,11283787
+"Lima, OH MSA",,,United States,10.789,101115
+Limoges metropolitan area,,,France,12.558,296099
+"Lincoln, NE MSA",,,United States,25.459,342448
+Linz,48.3058,14.2864,Austria,43.918,271234
+Lisbon metropolitan area,,,Portugal,103.33,2500000
+"Little Rock-North Little Rock-Conway, AR MSA",,,United States,47.322,757615
+Liuzhou,24.3264,109.4281,China,46.06,4157934
+Liverpool,,,United Kingdom,21.9,506565
+Ljubljana,46.0514,14.5061,Slovenia,23.937,294464
+Łódź metropolitan area,,,Poland,21.779,1112069
+"Logan, UT-ID MSA",,,United States,8.009,155362
+London metropolitan area,,,United Kingdom,978.402,14800000
+"London, Ontario",,,Canada,20.818,550605
+"Longview, TX MSA",,,United States,20.259,291219
+"Longview, WA MSA",,,United States,6.626,111956
+Longyan,25.076,117.017,China,41.623,2723637
+"Los Angeles–Long Beach, CA CSA",,,United States,1527.621,18372485
+"Louisville/Jefferson County, KY-IN MSA",,,United States,90.836,1284553
+"Lubbock, TX MSA",,,United States,18.116,328283
+Lublin,51.25,22.5667,Poland,10.065,664000
+Lucknow,26.85,80.95,India,3.83,4000000
+Luoyang,,,China,74.352,2550000
+Luxembourg metropolitan area,,,Luxembourg,85.503,643941
+"Lynchburg, VA MSA",,,United States,12.464,263613
+Maanshan,,,China,31.706,2159930
+Mackay,,,Australia,6.54,80148
+"Macon-Bibb County, GA MSA",,,United States,12.76,233916
+"Madera, CA MSA",,,United States,7.738,160256
+"Madison, WI MSA",,,United States,60.909,687077
+Madrid Metropolitan Area,,,Spain,277.508,6980646
+Magdeburg,52.1317,11.6392,Germany,18.25,295200
+Makassar Metropolitan,,,Indonesia,17.052,2900468
+Málaga metropolitan area,,,Spain,32.26,1030000
+Malmö,55.6058,13.0358,Sweden,64.427,748433
+Manado Metropolitan,,,Indonesia,5.487,1008126
+Manaus,3.1189,-60.0217,Brazil,30.375,1802014
+"Manchester-Nashua, NH MSA",,,United States,34.533,426594
+"Manhattan, KS MSA",,,United States,8.457,133072
+"Mankato, MN MSA",,,United States,6.831,104072
+"Mansfield, OH MSA",,,United States,5.494,125319
+Mataram Metropolitan,,,Indonesia,5.491,3808908
+"McAllen-Edinburg-Mission, TX MSA",,,United States,27.685,888367
+Medan Metropolitan,,,Indonesia,28.248,5106670
+Medellín,6.2308,-75.5906,Colombia,35.0,4225000
+"Medford, OR MSA",,,United States,12.024,221644
+Melbourne,37.8142,144.9631,Australia,318.677,5050000
+"Memphis, TN-MS-AR MSA",,,United States,96.183,1332305
+"Merced, CA MSA",,,United States,11.56,290014
+Métropole du Grand Nancy,,,France,24.59,427697
+Métropole Nice Côte d'Azur,,,France,47.361,1101039
+Métropole Rouen Normandie,,,France,49.637,499830
+Metropolis of Lyon,,,France,116.412,1424069
+Metropolitan Area of Bogotá,,,Colombia,121.8,10200000
+Metropolitan City of Bari,,,Italy,30.011,1223102
+Metropolitan City of Cagliari,,,Italy,12.645,419553
+Metropolitan City of Catania,,,Italy,22.017,1068482
+Metropolitan City of Florence,,,Italy,39.496,1000111
+Metropolitan City of Genoa,,,Italy,30.556,564981
+Metropolitan City of Messina,,,Italy,12.441,598811
+Metropolitan City of Palermo,,,Italy,25.53,647160
+Metropolitan Cork,,,Ireland,117.882,270000
+"Miami-Fort Lauderdale-Pompano Beach, FL MSA",,,United States,483.755,6139340
+"Michigan City-La Porte, IN MSA",,,United States,5.286,111675
+"Midland, MI MSA",,,United States,7.047,83674
+"Midland, TX MSA",,,United States,55.015,177216
+Milan metropolitan area,,,Italy,233.596,4985668
+"Milwaukee-Waukesha, WI MSA",,,United States,120.563,1559792
+"Minneapolis-St. Paul-Bloomington, MN-WI MSA",,,United States,333.102,3693729
+Minsk,53.9,27.5667,Belarus,19.913,1995471
+"Missoula, MT MSA",,,United States,7.71,121041
+"Mobile, AL MSA",,,United States,27.361,426533
+"Modesto, CA MSA",,,United States,28.674,551275
+Monaco,,,Monaco,6.816,39150
+Moncton,,,Canada,6.031,159177
+"Monroe, LA MSA",,,United States,9.65,202869
+"Monroe, MI MSA",,,United States,7.119,155609
+Monterrey,25.6667,-100.3,Mexico,140.0,5324281
+Monterrey,4.8783,-72.8972,Mexico,140.0,5324281
+Montevideo,34.8836,-56.1819,Uruguay,53.9,1870000
+"Montgomery, AL MSA",,,United States,22.08,385460
+Montpellier Méditerranée Métropole,,,France,45.031,487519
+"Morgantown, WV MSA",,,United States,9.657,141041
+"Morristown, TN MSA",,,United States,6.73,146172
+Moscow metropolitan area,,,Russia,504.808,17400000
+"Mount Vernon-Anacortes, WA MSA",,,United States,8.773,131179
+Mulhouse Alsace Agglomération,,,France,27.213,356125
+Multan,30.1978,71.4697,Pakistan,12.0,2225000
+Mumbai Metropolitan Region,,,India,277.98,25600000
+"Muncie, IN MSA",,,United States,5.102,112031
+Munich Metropolitan Region,,,Germany,384.582,2926802
+Murcia metropolitan area,,,Spain,33.946,1528828
+"Muskegon, MI MSA",,,United States,7.408,176565
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",,,United States,25.132,536165
+Nagoya,35.1833,136.9,Japan,379.301,10500000
+Nagpur,,,India,19.0,3127000
+Nairobi,1.2864,36.8172,Kenya,30.0,4750056
+Namur metropolitan area,,,Belgium,12.559,319355
+Nanchang,28.683,115.858,China,83.3,6255007
+Nanjing,32.0608,118.7789,China,251.0,8850000
+Nanning,22.8167,108.3275,China,54.299,7765411
+Nanping,26.6418,118.1774,China,29.104,2680645
+Nantes,47.2181,-1.5528,France,65.457,859972
+"Napa, CA MSA",,,United States,13.166,134300
+Naples metropolitan area,,,Italy,64.296,3349233
+"Naples-Marco Island, FL MSA",,,United States,28.083,397994
+"Nashville-Davidson–Murfreesboro–Franklin, TN MSA",,,United States,187.781,2046828
+National Capital Region (India),,,India,272.603,31300000
+Neubrandenburg,53.5569,13.2611,Germany,8.714,63043
+"New Bern, NC MSA",,,United States,6.619,122488
+"New Haven-Milford, CT MSA",,,United States,61.456,869527
+"New Orleans-Metairie, LA MSA",,,United States,94.031,1246176
+"New York–Newark, NY-NJ-CT-PA CSA",,,United States,2504.721,21914996
+Newcastle,,,Australia,11.554,492805
+Nicosia,35.1725,33.365,Cyprus,28.407,350824
+Niigata,37.9161,139.0364,Japan,43.3,2374450
+"Niles, MI MSA",,,United States,9.03,152900
+Ningde,26.6662,119.5477,China,37.971,3146789
+"North Port-Sarasota-Bradenton, FL MSA",,,United States,49.369,891411
+Northwest Metropolitan Region,,,Germany,115.73,2797706
+"Norwich-New London, CT MSA",,,United States,22.049,268681
+Nuremberg Metropolitan Region,,,Germany,169.195,3610543
+Nyingchi,,,China,2.774,238936
+"Ocala, FL MSA",,,United States,14.033,396415
+"Ocean City, NJ MSA",,,United States,6.533,95634
+Odense,55.3958,10.3886,Denmark,25.361,205509
+"Odessa, TX MSA",,,United States,14.192,160869
+Offenburg,48.4667,7.9333,Germany,20.259,88600
+"Ogden-Clearfield, UT MSA",,,United States,39.168,713839
+Okayama,34.65,133.9167,Japan,63.1,1945276
+"Oklahoma City, OK MSA",,,United States,94.742,1459380
+"Olympia-Lacey-Tumwater, WA MSA",,,United States,17.927,298758
+"Omaha-Council Bluffs, NE-IA MSA",,,United States,85.021,976671
+Opole,50.6667,17.9333,Poland,8.559,146522
+Orange,,,Australia,3.204,40493
+Ordos,,,China,51.232,2153638
+"Orlando-Kissimmee-Sanford, FL MSA",,,United States,194.472,2764182
+Orléans,47.9025,1.909,France,27.499,453067
+Oshawa,,,Canada,10.321,424757
+"Oshkosh-Neenah, WI MSA",,,United States,12.398,170718
+Oslo,59.9133,10.7389,Norway,73.715,1190000
+Osnabrück,52.2833,8.05,Germany,23.005,272674
+Ostrava metropolitan area,,,Czech Republic,25.054,949291
+Ottawa–Gatineau,,,Canada,67.042,1462582
+"Owensboro, KY MSA",,,United States,6.742,121348
+"Oxnard-Thousand Oaks-Ventura, CA MSA",,,United States,62.329,832605
+Padang Metropolitan,,,Indonesia,6.213,1441760
+Paderborn,51.7181,8.7542,Germany,12.659,309380
+Padua–Treviso–Venice metropolitan area,,,Italy,34.796,2748420
+Palembang Metropolitan,,,Indonesia,16.561,3722087
+"Palm Bay-Melbourne-Titusville, FL MSA",,,United States,34.626,630693
+Palma de Mallorca metropolitan area,,,Spain,24.507,422587
+Pamplona metropolitan area,,,Spain,21.636,359435
+"Panama City, FL MSA",,,United States,11.683,185134
+Panjin,,,China,18.9,1389691
+Panzhihua,,,China,15.09,1212203
+Paris metropolitan area,,,France,934.168,14800000
+"Parkersburg-Vienna, WV MSA",,,United States,4.354,88431
+Parma,44.8015,10.328,Italy,19.202,450854
+Patna,25.594,85.1376,India,30.0,2800000
+Pekanbaru Metropolitan,,,Indonesia,25.279,2718278
+"Pensacola-Ferry Pass-Brent, FL MSA",,,United States,27.08,523146
+"Peoria, IL MSA",,,United States,26.282,396466
+Perpignan Méditerranée Métropole,,,France,14.43,292142
+Perth,31.9559,115.8606,Australia,111.056,2087086
+Perugia metropolitan area,,,Italy,18.509,637598
+"Peterborough, Ontario",,,Canada,3.657,131665
+Pforzheim,48.895,8.705,Germany,12.932,215100
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",,,United States,518.485,6241164
+"Phoenix-Mesa-Chandler, AZ MSA",,,United States,362.087,5015678
+"Pine Bluff, AR MSA",,,United States,4.122,84629
+"Pittsburgh, PA MSA",,,United States,181.485,2349172
+"Pittsfield, MA MSA",,,United States,8.155,127859
+Ploiești,,,Romania,8.827,180540
+Plzeň,49.7475,13.3775,Czech Republic,13.742,174007
+"Pocatello, ID MSA",,,United States,4.229,97585
+"Port St. Lucie, FL MSA",,,United States,24.146,520710
+"Portland-South Portland, ME MSA",,,United States,43.764,561576
+"Portland-Vancouver-Hillsboro, OR-WA MSA",,,United States,204.319,2509489
+Porto Alegre,30.0331,-51.23,Brazil,45.506,3701525
+Porto metropolitan area,,,Portugal,40.868,1550000
+Poznań metropolitan area,,,Poland,33.829,546859
+Prague metropolitan area,,,Czech Republic,130.085,1460000
+Prato,43.88,11.0983,Italy,8.564,195213
+"Prescott Valley–Prescott, AZ MSA",,,United States,6.111,236209
+Pretoria,25.7461,28.1881,South Africa,56.286,7426673
+"Providence-Warwick, RI-MA MSA",,,United States,105.571,1673802
+"Provo-Orem, UT MSA",,,United States,40.761,715001
+Puebla,19.0333,-98.1833,Mexico,31.102,3903485
+"Pueblo, CO MSA",,,United States,7.836,169544
+Pune,,,India,69.0,9429408
+"Punta Gorda, FL MSA",,,United States,7.714,202661
+Putian,25.4526,119.0078,China,38.333,3210714
+Qingdao,36.0669,120.3827,China,222.0,7050000
+Quanzhou,24.8744,118.6757,China,180.0,8782285
+Quebec City,46.8139,-71.2081,Canada,35.742,832021
+Quzhou,,,China,23.764,2276184
+"Racine, WI MSA",,,United States,9.909,195846
+"Raleigh-Cary, NC MSA",,,United States,119.675,1484338
+"Rapid City, SD MSA",,,United States,8.459,145159
+"Reading, PA MSA",,,United States,23.751,430449
+Recife,8.05,-34.9,Brazil,22.81,3741898
+"Redding, CA MSA",,,United States,9.921,180930
+Regensburg,49.0167,12.0833,Germany,25.618,243200
+Reggio Emilia metropolitan area,,,Italy,21.133,525366
+"Regina, Saskatchewan",,,Canada,13.02,263236
+Rennes Métropole,,,France,48.287,624744
+"Reno, NV MSA",,,United States,40.095,500915
+Rhine-Main Metropolitan Region,,,Germany,197.259,5808518
+Rhine-Neckar Metropolitan Region,,,Germany,113.354,2362000
+"Richmond, VA MSA",,,United States,109.513,1339182
+Riga metropolitan area,,,Latvia,25.207,663012
+Rio de Janeiro metropolitan area,,,Brazil,176.095,17463349
+"Riverside-San Bernardino-Ontario, CA MSA",,,United States,237.913,4667558
+Riyadh,24.6333,46.7167,Saudi Arabia,235.18,7109000
+"Roanoke, VA MSA",,,United States,19.936,314340
+"Rochester, MN MSA",,,United States,16.5,228073
+"Rochester, NY MSA",,,United States,75.085,1081152
+"Rockford, IL MSA",,,United States,18.129,335342
+Rockhampton,,,Australia,5.342,78592
+"Rocky Mount, NC MSA",,,United States,8.097,144090
+Rome metropolitan area,,,Italy,175.336,4325591
+"Rome, GA MSA",,,United States,4.947,99443
+Rostock,,,Germany,15.661,243000
+Rotterdam,51.92,4.48,Netherlands,112.578,1876165
+Rzeszów,50.0333,22.0,Poland,8.547,195871
+Saarbrücken,49.2333,7.0,Germany,33.295,700000
+"Sacramento-Roseville-Folsom, CA MSA",,,United States,176.276,2416702
+"Saginaw, MI MSA",,,United States,10.091,188330
+"Saguenay, Quebec",,,Canada,6.345,163335
+"Saint John, New Brunswick",,,Canada,4.747,131935
+Saint Petersburg,59.9375,30.3086,Russia,128.0,6200000
+Saint-Étienne Métropole,,,France,26.675,425495
+"Salem, OR MSA",,,United States,24.075,436317
+"Salinas, CA MSA",,,United States,33.249,432858
+"Salisbury, MD-DE MSA",,,United States,28.573,439032
+"Salt Lake City, UT MSA",,,United States,135.409,1266191
+Salvador,12.9747,-38.4767,Brazil,17.98,3600000
+Salzburg,47.8,13.045,Austria,23.287,157245
+"San Angelo, TX MSA",,,United States,9.238,121839
+"San Antonio-New Braunfels, TX MSA",,,United States,163.061,2655342
+"San Diego-Chula Vista-Carlsbad, CA MSA",,,United States,295.645,3276208
+"San Francisco-Oakland-Berkeley, CA MSA",,,United States,874.924,4579599
+"San Jose-Sunnyvale-Santa Clara, CA MSA",,,United States,410.418,1938524
+San Juan,18.3985,-66.061,Puerto Rico,45.461,1920000
+San Juan,31.5342,-68.5261,Puerto Rico,45.461,1920000
+San Juan,18.81,-71.23,Puerto Rico,45.461,1920000
+San Juan,14.604,121.03,Puerto Rico,45.461,1920000
+San Juan,13.826,121.396,Puerto Rico,45.461,1920000
+"San Luis Obispo-Paso Robles, CA MSA",,,United States,21.713,282013
+San Marino,43.9346,12.4473,San Marino,1.807,34000
+San Sebastián metropolitan area,,,Spain,24.897,428187
+Sanmenxia,,,China,21.033,2034872
+Sanming,26.2634,117.6389,China,39.177,2486450
+Santa Cruz de Tenerife metropolitan area,,,Spain,19.575,434083
+"Santa Cruz-Watsonville, CA MSA",,,United States,19.176,264370
+"Santa Fe, NM MSA",,,United States,8.797,155664
+"Santa Maria-Santa Barbara, CA MSA",,,United States,36.081,443837
+"Santa Rosa-Petaluma, CA MSA",,,United States,36.877,482650
+Santander metropolitan area,,,Spain,14.665,256025
+Santiago Metropolitan Region,,,Chile,128.8,8050000
+Santiago de Cali,,,Colombia,22.1,2925000
+Santos,,,Brazil,28.609,1556718
+São José dos Campos,,,Brazil,30.148,1419657
+São José dos Pinhais,,,Brazil,14.726,264210
+Sapporo,43.0619,141.3544,Japan,84.7,1913545
+Saskatoon,,,Canada,15.059,336850
+"Savannah, GA MSA",,,United States,29.452,418373
+Schweinfurt,,,Germany,12.847,100500
+"Scranton–Wilkes-Barre, PA MSA",,,United States,32.328,567998
+"Seattle-Tacoma-Bellevue, WA MSA",,,United States,621.369,4034248
+"Sebastian-Vero Beach, FL MSA",,,United States,9.573,167352
+"Sebring-Avon Park, FL MSA",,,United States,3.215,105618
+Semarang Metropolitan,,,Indonesia,26.057,6608815
+Sendai,38.2682,140.8694,Japan,50.0,1082159
+Seoul Capital Area,,,South Korea,878.535,24800000
+Seville metropolitan area,,,Spain,42.016,1558006
+Shanghai,31.2286,121.4747,China,663.874,24890106
+Shantou,23.354,116.682,China,34.8,5502031
+Shaoxing,30.0511,120.5833,China,86.999,5270977
+"Sheboygan, WI MSA",,,United States,8.087,117841
+Sheffield,,,United Kingdom,40.6,1570000
+Shenyang,41.8025,123.4281,China,95.276,8000000
+Sherbrooke,,,Canada,7.02,224456
+"Sherman-Denison, TX MSA",,,United States,6.331,143131
+Shijiazhuang,38.0425,114.51,China,81.252,11235086
+Shizuishan,,,China,7.853,751389
+Shizuoka,34.9756,138.3828,Japan,45.8,3765007
+"Shreveport-Bossier City, LA MSA",,,United States,27.363,385154
+Shuozhou,39.3317,112.4329,China,15.955,1593444
+Siegen,50.8833,8.0167,Germany,16.336,101516
+"Sierra Vista-Douglas, AZ MSA",,,United States,5.698,125663
+Singapore,,,Singapore,515.548,5659000
+"Sioux City, IA-NE-SD MSA",,,United States,10.918,149240
+"Sioux Falls, SD MSA",,,United States,27.77,289592
+Sofia metropolitan area,,,Bulgaria,33.042,1300000
+Sorocaba,,,Brazil,21.313,779704
+"South Bend-Mishawaka, IN-MI MSA",,,United States,19.042,323637
+"Spartanburg, SC MSA",,,United States,19.485,345831
+"Spokane-Spokane Valley, WA MSA",,,United States,35.689,597919
+"Springfield, IL MSA",,,United States,13.952,206655
+"Springfield, MA MSA",,,United States,40.11,694523
+"Springfield, MO MSA",,,United States,26.687,487061
+"Springfield, OH MSA",,,United States,5.5,134831
+St. Catharines–Niagara Falls,,,Canada,12.979,437080
+"St. Cloud, MN MSA",,,United States,12.943,201868
+"St. George, UT MSA",,,United States,9.561,197680
+"St. John's, Newfoundland and Labrador",,,Canada,9.628,213919
+"St. Joseph, MO-KS MSA",,,United States,6.873,119690
+"St. Louis, MO-IL MSA",,,United States,209.936,2801319
+"State College, PA MSA",,,United States,10.325,158425
+"Staunton, VA MSA",,,United States,6.332,126776
+Stockholm metropolitan area,,,Sweden,203.899,2308143
+"Stockton, CA MSA",,,United States,40.228,793229
+Strasbourg,48.5833,7.7458,France,49.09,1150899
+Stuttgart Metropolitan Region,,,Germany,294.957,2400000
+"Sumter, SC MSA",,,United States,5.801,134925
+Sunshine Coast,,,Australia,13.813,333436
+Surabaya Metropolitan,,,Indonesia,88.821,11800657
+Surat,,,India,59.8,6600000
+Sydney,33.8678,151.21,Australia,398.037,5400000
+"Syracuse, NY MSA",,,United States,49.281,653633
+Szczecin metropolitan area,,,Poland,13.822,750000
+Taichung,24.1439,120.6794,Taiwan,63.91,3033840
+Tainan,22.9833,120.1833,Taiwan,37.038,1875076
+Taipei–Keelung metropolitan area,,,Taiwan,407.838,9150000
+Taiyuan,37.8704,112.5497,China,60.215,5304061
+"Taizhou, Jiangsu",,,China,77.015,4512762
+"Taizhou, Zhejiang",,,China,76.3,6622888
+"Tallahassee, FL MSA",,,United States,22.394,390992
+Tallinn metropolitan area,,,Estonia,22.797,638076
+"Tampa-St. Petersburg-Clearwater, FL MSA",,,United States,219.414,3290730
+Tampere,61.4981,23.76,Finland,23.987,241009
+Tangshan,,,China,132.0,2600000
+Taoyuan,,,Taiwan,52.01,2254363
+Taranto metropolitan area,,,Italy,11.518,555999
+Tbilisi,41.7225,44.7925,Georgia,8.0,1184818
+Tel Aviv metropolitan area,,,Israel,310.0,4260000
+"Terre Haute, IN MSA",,,United States,9.774,184875
+"Texarkana, TX-AR MSA",,,United States,6.746,146408
+The Hague,52.08,4.31,Netherlands,60.105,1116798
+"The Villages, FL MSA",,,United States,5.785,144970
+Thessaloniki,,,Greece,16.452,1104023
+Thunder Bay,,,Canada,4.658,126502
+Tilburg,51.55,5.0833,Netherlands,21.869,221947
+Timișoara metropolitan area,,,Romania,11.526,430071
+Tokelau,,,Tokelau,0.009,1499
+"Toledo, OH MSA",,,United States,45.846,640384
+Toowoomba,,,Australia,7.118,136861
+"Topeka, KS MSA",,,United States,14.388,231783
+Toulouse Métropole,,,France,65.456,1445789
+Tours Métropole Val de Loire,,,France,23.795,392030
+Townsville,,,Australia,9.075,180820
+"Trenton-Princeton, NJ MSA",,,United States,49.62,380688
+Trois-Rivières,,,Canada,5.134,163374
+"Tucson, AZ MSA",,,United States,55.8,1057597
+"Tulsa, OK MSA",,,United States,61.966,1034123
+Turin metropolitan area,,,Italy,78.268,1728714
+Turku metropolitan area,,,Finland,21.939,346662
+"Tuscaloosa, AL MSA",,,United States,13.818,277494
+"Twin Falls, Idaho",,,United States,5.878,116645
+"Tyler, TX MSA",,,United States,14.729,241922
+Uberlandia,,,Brazil,14.728,604013
+Ulm,48.4,9.9833,Germany,26.464,126949
+Uppsala,59.8581,17.6447,Sweden,19.237,388394
+"Urban Honolulu, HI MSA",,,United States,74.422,995638
+Ürümqi,43.8225,87.6125,China,48.385,4054369
+"Utica-Rome, NY MSA",,,United States,15.115,288668
+Utrecht,52.0908,5.1217,Netherlands,88.005,1356430
+"Valdosta, GA MSA",,,United States,7.132,149849
+Valencia metropolitan area,,,Spain,64.435,1768205
+Valladolid,41.6528,-4.7236,Spain,15.309,371861
+"Vallejo, CA MSA",,,United States,35.408,448747
+Valletta,35.8983,14.5125,Malta,17.72,480134
+Verona metropolitan area,,,Italy,34.169,915975
+"Victoria, British Columbia",,,Canada,16.789,409398
+"Victoria, TX MSA",,,United States,5.907,98196
+Vienna,48.2083,16.3725,Austria,165.968,3004660
+Vigo metropolitan area,,,Spain,22.987,321748
+Vilnius urban area,,,Lithuania,30.915,868341
+"Vineland-Bridgeton, NJ MSA",,,United States,7.831,151356
+"Virginia Beach-Norfolk-Newport News, VA-NC MSA",,,United States,116.686,1806840
+"Visalia, CA MSA",,,United States,22.794,477544
+Vishakhapatnam,,,India,43.5,2200000
+Vitória,20.2889,-40.3083,Brazil,28.357,1582418
+Vitoria-Gasteiz,42.85,-2.6833,Spain,13.403,253996
+"Waco, TX MSA",,,United States,16.276,283885
+Wagga Wagga,,,Australia,4.392,56442
+"Walla Walla, WA MSA",,,United States,4.134,61890
+"Warner Robins, GA MSA",,,United States,9.812,198193
+Warsaw metropolitan area,,,Poland,135.343,2350000
+"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",,,United States,792.751,6373756
+"Waterloo-Cedar Falls, IA MSA",,,United States,11.824,167889
+"Watertown-Fort Drum, NY MSA",,,United States,7.598,116637
+"Wausau-Weston, WI MSA",,,United States,12.065,166334
+Weihai,37.5133,122.1205,China,43.753,2906548
+"Weirton-Steubenville, WV-OH MSA",,,United States,7.446,114235
+Wellington,41.2889,174.7772,New Zealand,26.607,440900
+"Wenatchee, WA MSA",,,United States,8.355,124118
+Wenzhou,,,China,119.2,5050000
+Wetzlar,50.5667,8.5,Germany,9.957,278200
+"Wheeling, WV-OH MSA",,,United States,12.603,136708
+"Wichita Falls, TX MSA",,,United States,7.59,149299
+"Wichita, KS MSA",,,United States,43.935,650039
+"Williamsport, PA MSA",,,United States,7.04,113104
+"Wilmington, NC MSA",,,United States,20.127,300658
+"Winchester, VA-WV MSA",,,United States,9.181,146455
+"Windsor, Ontario",,,Canada,12.243,353572
+Winnipeg Metropolitan Region,,,Canada,33.557,850558
+"Winston-Salem, NC MSA",,,United States,40.94,688471
+Wollongong,,,Australia,5.624,300332
+"Worcester, MA-CT MSA",,,United States,60.343,980137
+Wrocław metropolitan area,,,Poland,17.387,672929
+Wuhai,39.655,106.794,China,8.165,556621
+Wuhan,30.5934,114.3046,China,281.0,10800000
+Wuhu,31.3526,118.4331,China,54.412,3644420
+Xi'an,,,China,171.0,11600000
+Xiamen,24.4796,118.0889,China,92.557,5163970
+Xiangtan,,,China,33.971,2726181
+Xiangyang,32.01,112.122,China,66.72,5260951
+Xilingol League,,,China,12.176,1107075
+Xinyu,27.8186,114.9167,China,14.517,1202499
+Xuchang,,,China,50.008,4379998
+Xuzhou,,,China,126.0,3050000
+"Yakima, WA MSA",,,United States,13.038,257001
+Yan'an,,,China,23.219,2282581
+Yancheng,33.3482,120.1626,China,86.314,6709629
+Yangzhou,,,China,87.69,4559797
+Yantai,,,China,142.0,2450000
+Yerevan,40.1814,44.5144,Armenia,5.23,1500000
+Yichang,,,China,61.783,4017607
+Yingtan,,,China,14.29,1154223
+"York-Hanover, PA MSA",,,United States,25.187,461058
+"Youngstown-Warren-Boardman, OH-PA MSA",,,United States,24.99,535499
+"Yuba City, CA MSA",,,United States,8.608,182813
+Yueyang,,,China,58.015,5051922
+"Yulin, Shaanxi",,,China,59.293,3624750
+"Yuma, AZ MSA",,,United States,9.883,207842
+Yuxi,24.347,102.527,China,29.84,2249502
+Zagreb metropolitan area,,,Croatia,29.63,1189279
+Zaragoza metropolitan area,,,Spain,29.702,681877
+Zhangzhou,24.513,117.647,China,65.903,5054328
+Zhengzhou,34.764,113.684,China,192.0,8950000
+Zhenjiang,32.188,119.424,China,61.182,3210418
+Zhuzhou,27.829,113.133,China,45.029,1330000
+Zibo,,,China,53.26,4704138
+Zürich Metropolitan Area,,,Switzerland,158.913,1430000
+Zwolle,52.5167,6.1,Netherlands,17.936,129840
