@@ -3,7 +3,7 @@ Projects for my Data Analyst Nanodegree with Udacity
 
 ## PROJECT #1: Investigate a Dataset
 
-Description
+Description:
 In this project, you will analyze a dataset and then communicate
 your findings about it. This includes asking questions, exploring
 the dataset, performing basic data wrangling, drawing
@@ -13,7 +13,7 @@ Notebook using the NumPy and pandas Python libraries.
 
 ## PROJECT #2: Wrangle and Analyze Data
 
-Description
+Description:
 Real-world data rarely comes clean. Using Python and its
 libraries, you will gather data from a variety of sources and in a
 variety of formats, assess its quality and structure, then clean it.
@@ -23,6 +23,7 @@ analyses and visualizations using Python (and its libraries).
 
 ## PROJECT #3: Communicate Data Findings
 
+Description:
 In Part I, Exploratory data visualization, you will use Python visualization libraries to systematically explore your selected
 dataset, starting with plots of single variables and building up to plots of multiple variables.
 
