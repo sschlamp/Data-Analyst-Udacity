@@ -1,6 +1,4 @@
-# Data-Analyst-Udacity
-
-## PROJECT #3: Communicate Data Findings
+# PROJECT #3: Communicate Data Findings
 
 Description: In Part I, Exploratory data visualization, you will use Python visualization libraries to systematically explore your selected dataset, starting with plots of single variables and building up to plots of multiple variables.
 
