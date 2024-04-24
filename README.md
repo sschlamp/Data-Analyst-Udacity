@@ -1,5 +1,5 @@
 # Data-Analyst-Udacity
-Projects for my Data Analyst Nanodegree with Udacity
+Projects as part of my Data Analyst Nanodegree with Udacity
 
 ## PROJECT #1: Investigate a Dataset
 
@@ -30,3 +30,10 @@ dataset, starting with plots of single variables and building up to plots of mul
 In Part II, Explanatory data visualization, you will produce a short presentation that illustrates interesting properties, trends,
 and relationships that you discovered in your selected dataset. The primary method of conveying your findings will be
 through transforming your exploratory visualizations from the first part into polished, explanatory visualizations.
+
+# How to contribute
+If you want to submit any improvements to these projects then feel free to submit the pull request.
+Steps
+•	Fork this repository.
+•	Make the changes inside your repository.
+•	Submit the pull request.
