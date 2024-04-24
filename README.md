@@ -34,6 +34,6 @@ through transforming your exploratory visualizations from the first part into po
 # How to contribute
 If you want to submit any improvements to these projects then feel free to submit the pull request.
 Steps
-•	Fork this repository.
-•	Make the changes inside your repository.
-•	Submit the pull request.
+- Fork this repository.
+- Make the changes inside your repository.
+- Submit the pull request.
